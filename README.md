@@ -47,6 +47,14 @@ def max_marks(marks):
 
 
 ## Output:
+i) # To find the maximum of marks using the list method sort.
+![sort-output](https://github.com/TEJA190905/FindMaximum/assets/167788543/2f2fc4c7-d6fa-4316-a877-d943c0f24369)
+
+ii) # To find the maximum marks using the list method max().
+![max-output](https://github.com/TEJA190905/FindMaximum/assets/167788543/0e8c09cf-2fa2-4418-a2aa-788020335dbe)
+
+iii) # To find the maximum marks without using builtin functions.
+![without_built-in -output](https://github.com/TEJA190905/FindMaximum/assets/167788543/bb4be3a1-a1e9-4240-a4b0-6b95adf35775)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
